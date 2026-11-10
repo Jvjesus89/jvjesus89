@@ -1,61 +1,80 @@
-# João Vitor De Jesus Souza 💻
-> **Desenvolvedor Full-Stack | Delphi | Especialista em Banco de Dados SQL & ERP | Automação & IA**
+<div align="center">
+  
+  # Olá! 👋 Eu sou o João Vitor De Jesus Souza
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+%7C+Delphi;Especialista+em+Banco+de+Dados+%26+ERP;Engenharia+de+Software+%26+Cloud;Foco+em+Intelig%C3%AAncia+Artificial+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+  
+  <br>
+
+  <a href="mailto:jvjesus89@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joao-vitor-souza-3455b7105" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</div>
+
+<br>
+
+## 🙋‍♂️ Sobre Mim
+
+👨‍💻 Profissional de tecnologia com **6 anos de experiência**, com forte background em gestão de sistemas ERP e projetos de offshore.  
+🎓 **Orador da Turma** na formação de **Análise e Desenvolvimento de Sistemas (Jul/2026)** e atualmente em preparação para o **Mestrado em Inteligência Artificial na UFF**.  
+💡 Hoje, meu foco é dividir meu tempo entre a criação/manutenção de sistemas robustos em **Delphi** e o desenvolvimento **Full-Stack** focado em inovação, arquitetando soluções com Next.js, Go, Python e IA (RAG).  
+⚙️ **Filosofia:** *Automatizar processos, modernizar o legado e integrar inteligência aos negócios.*
+
+<br>
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Desktop & Legacy</b><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40" alt="Delphi" title="Delphi"/>
+      </td>
+      <td align="center" width="25%"><b>Backend & IA</b><br><br>
+        <img src="https://skillicons.dev/icons?i=go,py,nodejs,fastapi" alt="Backend Stack" />
+      </td>
+      <td align="center" width="25%"><b>Frontend & Mobile</b><br><br>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind" alt="Frontend Stack" />
+      </td>
+      <td align="center" width="25%"><b>Data & DevOps</b><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker" alt="Data & DevOps" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+*Outras tecnologias:* `SQL Server`, `Firebird`, `Google Apps Script`, `n8n`, `BullMQ`, `WSL 2`.
+
+<br>
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack Principal |
+|---------|-----------|-----------------|
+| 🏗️ **Inovar CRM** | Aplicação monorepo de gestão de obras com processamento em background. | `Next.js` `Go` `Supabase` `Redis` `BullMQ` |
+| 🔄 **WorkFranquias** | Utilitário para transferência e sincronização direta de matriz/filiais em Delphi. | `Delphi` `Firebird SQL` |
+| 🚢 **Offshore RAG** | Sistema de guardrail de segurança para IA aplicada ao setor marítimo. | `Python` `FastAPI` `Docker` `Gemini 2.5` |
+| 📊 **Parser Financeiro** | Automação que lê, extrai e categoriza faturas de cartão de crédito em PDF. | `Python` `Automação` |
+| 📱 **Teresópolis Trails**| Aplicativo mobile (MVP) para mapeamento de trilhas em Teresópolis. | `React Native (Expo)` `Node.js` |
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvjesus89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvjesus89&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+</div>
+
+<br>
 
 ---
 <div align="center">
-    <a href="mailto:jvjesus89@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="www.linkedin.com/in/joao-vitor-souza-3455b7105" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/Jvjesus89" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-</div>
-
-## 🙋‍♂️ Sobre mim
-
-Sou um profissional de tecnologia com **6 anos de experiência** e uma trajetória de sucesso, evoluindo de Suporte/Análise de Sistemas ERP ao **Desenvolvimento de Software**. Minha experiência me proporcionou um *background* robusto em gestão de sistemas **ERP** e projetos de **offshore**.
-
-Recentemente formado em **Análise e Desenvolvimento de Sistemas (ADS)** como orador da turma (Jul/2026), atualmente me preparo para o Mestrado em Inteligência Artificial na UFF. 
-
-No dia a dia, atuo focado na criação e manutenção de sistemas *desktop* em **Delphi** e na modernização tecnológica através do desenvolvimento *full-stack*, arquitetando novas soluções utilizando ecossistemas modernos (Next.js, Go, Python, FastAPI, Docker) e inteligência artificial.
-
----
-
-## ✨ Habilidades Principais / Key Skills
-
-- **Desenvolvimento Desktop:** Delphi 7 e 10.4.2
-- **Back-end:** Go, Python (FastAPI), Node.js, Google Apps Script
-- **Front-end & Mobile:** Next.js, React Native (Expo), Angular, TailwindCSS
-- **Banco de Dados & Cache:** Supabase, PostgreSQL, SQL Server, Firebird, Redis
-- **Inteligência Artificial:** Implementação de sistemas RAG (Retrieval-Augmented Generation) com guardrails de segurança, utilizando modelos como Gemini 2.5 Flash Lite.
-- **Automação & DevOps:** n8n, Docker, Portainer, WSL 2, BullMQ
-- **Versionamento & Ferramentas:** Git/Github, Cursor IDE
-
----
-
-## 🚀 Projetos Recentes / Recent Projects
-
-- 🏗️ **Inovar CRM:** Aplicação de gestão de obras em arquitetura monorepo utilizando **Next.js**, **Go**, **Supabase PostgreSQL**, **Redis** e **BullMQ**.
-- 🔄 **WorkFranquias:** Utilitário de migração de banco de dados desenvolvido em **Delphi** para transferência e sincronização direta de tabelas **Firebird** entre matriz e filiais.
-- 🚢 **Offshore RAG Security System:** Sistema de guardrail de segurança para uma aplicação RAG marítima construída com **Python**, **FastAPI**, Docker e Gemini.
-- 📊 **Parser Financeiro Automatizado:** Ferramenta para extração e categorização de dados financeiros a partir de faturas em PDF (Nubank, Inter).
-- 📱 **Teresópolis Trails:** MVP de aplicativo mobile construído com **Expo** (React Native) e **Node.js**.
-
----
-
-<div align="left">
-    <br>
-    <h3>My Stack:</h3>
-    <img align="center" alt="João-Delphi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-plain.svg">
-    <img align="center" alt="João-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-    <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="João-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="João-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="João-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
-    <img align="center" alt="João-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="João-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <i>"A tecnologia move o mundo, mas é a lógica que pavimenta o caminho."</i>
 </div>
